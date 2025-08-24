@@ -1,18 +1,16 @@
 # 🏦 Python Banking Program  
 
-A simple **banking system** built in Python that allows users to manage basic banking operations such as creating accounts, depositing money, withdrawing funds, and checking balances.  
+A simple **banking system** built in Python that allows users to manage basic banking operations such as depositing money, withdrawing funds, and checking balances.  
 
-This project is beginner-friendly and demonstrates **Python fundamentals** including functions, loops, conditionals, and file handling (if persistence is added).  
+This project is beginner-friendly and demonstrates **Python fundamentals** including functions, loops, conditionals, and try except handling.  
 
 ---
 
 ## 🚀 Features  
-
-- ✨ Create a new bank account  
+ 
 - 💰 Deposit money  
 - 💸 Withdraw money (with balance validation)  
-- 📊 Check account balance  
-- 📝 Save and retrieve account details (optional: file/database integration)  
+- 📊 Check account balance 
 
 ---
 
@@ -32,3 +30,14 @@ This project is beginner-friendly and demonstrates **Python fundamentals** inclu
 ---
 
 ## 📂 Project Structure  
+
+---
+
+## ▶️ Getting Started  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/python-banking-program.git
+   cd python-banking-program
+
+python banking.py
