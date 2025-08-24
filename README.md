@@ -40,4 +40,4 @@ This project is beginner-friendly and demonstrates **Python fundamentals** inclu
    git clone https://github.com/your-username/python-banking-program.git
    cd python-banking-program
 
-python banking.py
+python banking_program.py
